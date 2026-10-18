@@ -1,2 +1,2 @@
 # PathFinder
-Arbitrage Detection in Currency Markets\
+Arbitrage Detection in Currency Markets
